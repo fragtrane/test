@@ -1,0 +1,3 @@
+<mod name="[Test Mod] Update" author="fragtrane" min_lib_version="3.38">
+	<AssetUpdates id="fragtrane/test" provider="github" release="true" version="alpha" version_is_number="false"/>
+</table>
